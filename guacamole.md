@@ -6,4 +6,6 @@
 
 ## Instructions
 * peel the avacado
-* squeeze lime juice
+* squeeze lemon/lime juice
+* mash the avocade
+* mix together
