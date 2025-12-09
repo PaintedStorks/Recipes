@@ -1,9 +1,9 @@
 #Guacamole
 ## Ingredients
 * Avacado
-*Lime
+*Lime or lemon
 *Salt
 
 ## Instructions
 * peel the avacado
-* squeeze lime juice
+* squeeze lime or lemon juice
