@@ -3,6 +3,7 @@
 * Avacado
 *Lime or lemon
 *Salt
+* tomato
 
 ## Instructions
 * peel the avacado
