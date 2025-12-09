@@ -6,3 +6,4 @@
 
 ## Instructions
 * peel the avacado
+* squeeze lime juice
